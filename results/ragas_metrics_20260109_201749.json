@@ -1,0 +1,23 @@
+{
+  "answer_relevancy_mean": 0.4112729687385973,
+  "answer_relevancy_std": 0.3539999644501927,
+  "answer_relevancy_min": 0.0,
+  "answer_relevancy_max": 0.827854930823417,
+  "answer_relevancy_count": 5,
+  "context_recall_mean": 0.3111111111111111,
+  "context_recall_std": 0.25482988758177144,
+  "context_recall_min": 0.0,
+  "context_recall_max": 0.5555555555555556,
+  "context_recall_count": 5,
+  "context_relevance_mean": 0.65,
+  "context_relevance_std": 0.3741657386773941,
+  "context_relevance_min": 0.0,
+  "context_relevance_max": 1.0,
+  "context_relevance_count": 5,
+  "answer_accuracy_mean": 0.35,
+  "answer_accuracy_std": 0.3,
+  "answer_accuracy_min": 0.0,
+  "answer_accuracy_max": 0.75,
+  "answer_accuracy_count": 5,
+  "overall_mean": 0.43059601996242713
+}

@@ -1,0 +1,4 @@
+Metric,RAG,GraphRAG,Difference,Improvement %,Winner
+answer_accuracy,0.367,0.481,+0.114,+30.9%,GraphRAG
+answer_relevancy,0.359,0.480,+0.122,+34.0%,GraphRAG
+overall,0.348,0.481,+0.133,+38.1%,GraphRAG

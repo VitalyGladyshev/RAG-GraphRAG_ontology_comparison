@@ -1,0 +1,13 @@
+{
+  "answer_relevancy_mean": 0.48042655980424037,
+  "answer_relevancy_std": 0.0574606231178537,
+  "answer_relevancy_min": 0.0,
+  "answer_relevancy_max": 0.6340072676084251,
+  "answer_relevancy_count": 197,
+  "answer_accuracy_mean": 0.48096446700507617,
+  "answer_accuracy_std": 0.18498342292678782,
+  "answer_accuracy_min": 0.0,
+  "answer_accuracy_max": 1.0,
+  "answer_accuracy_count": 197,
+  "overall_mean": 0.48069551340465827
+}
