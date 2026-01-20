@@ -117,7 +117,7 @@ python scripts/compare.py \
   --output-dir "results/final_comparison"
 ```
 
-## Подробное описание утилит
+## Описание утилит
 
 ### run_rag.py
 
