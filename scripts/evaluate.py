@@ -3,6 +3,7 @@ import logging
 from pathlib import Path
 import sys
 import json
+from datetime import datetime
 
 from src.config.config import PipelineConfig
 from src.rag.rag_pipeline import RAGPipeline
