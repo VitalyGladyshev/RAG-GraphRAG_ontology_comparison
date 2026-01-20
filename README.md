@@ -43,7 +43,7 @@ venv\Scripts\activate    # Windows
 pip install -r requirements.txt
 ```
 
-## Быстрый старт
+## Этапы оценки
 
 ### 1. Подготовка данных для RAG
 
