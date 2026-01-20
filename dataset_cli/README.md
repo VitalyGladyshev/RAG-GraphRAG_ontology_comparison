@@ -13,10 +13,6 @@
 ## Установка
 
 ```bash
-# Клонировать репозиторий
-git clone https://github.com/yourusername/axiom-dataset-generator.git
-cd axiom-dataset-generator
-
 # Создать виртуальное окружение
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -25,9 +21,6 @@ venv\Scripts\activate    # Windows
 
 # Установить зависимости
 pip install -r requirements.txt
-
-# Установить пакет в режиме разработки
-pip install -e .
 ```
 
 ## Использование
@@ -146,4 +139,5 @@ python -m src.main generate \
 1. **CSV**: Читаемый человеком формат для анализа
 2. **Parquet**: Сжатый формат для эффективного хранения и обработки
 3. **JSON**: Полный формат со всеми метаданными
+
 
